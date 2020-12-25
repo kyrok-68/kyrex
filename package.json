@@ -1,0 +1,14 @@
+{
+  "name": "kyrex",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "index.js",
+  "repository": "https://github.com/kyrok-68/kyrex",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
